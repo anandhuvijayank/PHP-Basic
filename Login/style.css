@@ -1,0 +1,9 @@
+body{background:#eee; color:#3333FF; font-family:Tahoma, Geneva, sans-serif}
+
+#frm{ width:200px; padding:20px;background:#FFFFFF; margin:100px auto; border-radius:10px; border-color:#000000;}
+#user,#pass{padding:8px;
+	display:block;
+	border:none;
+	border-bottom:1px solid #00F;}
+#btn{color:#CCC;background-color:#607d8b;}
+#btn:hover { color:#607d8b; background-color:#CCC;}
